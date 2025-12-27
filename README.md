@@ -18,9 +18,9 @@
 
 💡 &nbsp; I’m a **pre-final year Computer Science Engineering student** who likes code that actually makes sense — readable, structured, and not held together by hope and comments.
 
-🌱 &nbsp; I build things across **software development and machine learning**, from performance-focused frontend work to ML systems that do more than just “look cool on a resume.” If it ships, scales, and doesn’t break mysteriously at 2 AM, I’m happy.
+🌱 &nbsp; I build things across **software development and machine learning**, from performance-focused frontend work to ML systems. If it ships, scales, and doesn’t break mysteriously at 2 AM, I’m happy.
 
-✍️ &nbsp; When I’m not debugging, I’m probably overthinking system design, polishing edge cases, or convincing myself *one more refactor* is necessary (it usually is).
+✍️ &nbsp; When I’m not debugging, I’m probably overthinking Algorithms, polishing edge cases, reading, playing with my cats or convincing myself *one more coffee* is not necessary (it usually is).
 
 💬 &nbsp; Always down to talk code, projects, ideas, or why “it worked on my machine” is not a valid excuse.
 
